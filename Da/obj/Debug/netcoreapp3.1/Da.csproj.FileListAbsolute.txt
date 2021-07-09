@@ -1,0 +1,9 @@
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\bin\Debug\netcoreapp3.1\Da.deps.json
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\bin\Debug\netcoreapp3.1\Da.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\bin\Debug\netcoreapp3.1\Da.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\obj\Debug\netcoreapp3.1\Da.csprojAssemblyReference.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\obj\Debug\netcoreapp3.1\Da.AssemblyInfoInputs.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\obj\Debug\netcoreapp3.1\Da.AssemblyInfo.cs
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\obj\Debug\netcoreapp3.1\Da.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\obj\Debug\netcoreapp3.1\Da.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Da\obj\Debug\netcoreapp3.1\Da.pdb

@@ -1,0 +1,12 @@
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\bin\Debug\netcoreapp3.1\Bi.deps.json
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\bin\Debug\netcoreapp3.1\Bi.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\bin\Debug\netcoreapp3.1\Bi.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.csprojAssemblyReference.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.AssemblyInfoInputs.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.AssemblyInfo.cs
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\bin\Debug\netcoreapp3.1\Da.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\bin\Debug\netcoreapp3.1\Da.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Dapper\Dapper\Bi\obj\Debug\netcoreapp3.1\Bi.csproj.CopyComplete
